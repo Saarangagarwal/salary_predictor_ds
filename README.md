@@ -15,7 +15,7 @@ Here is a brief description of each of the following steps:
 
 4. EDA (Exploratory Data Analysis): Analysis on the obtained data was carried out in order to obtain aggregate data based on various categories and factors with a graphical approach to obtain the summary of the main characteristics of the data using graphical analysis and visualization methods. 
 
-5. Building a model: 
+5. Building a model: Built a Multiple linear regression and random forest models. I will also implement a lasso regression models. There models were selected due to the sparsity of the data for many categorical variables, multiple linear regression being a good baseline model. 
 
 6. Production: All the data will be presented on a website which will be created soon. My current plan is to implement the same using react, express, mongoose using various REST endpoints, deployed via Heroku. 
 
